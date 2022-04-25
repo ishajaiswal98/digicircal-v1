@@ -1,6 +1,5 @@
 import React from 'react'
 import './OurServices.css'
-import { Link } from 'react-router-dom'
 import { Row, Col, Container, Card } from 'react-bootstrap'
 
 const OurServices = () => {
