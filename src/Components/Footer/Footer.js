@@ -44,10 +44,10 @@ const Footer = () => {
             
             
             <li>
-           <p><a href="#" className="cont"><FaPhoneAlt/></a>(+91) 93188 18893</p>
+           <p><a href="tel: 93188 18893" className="cont"><FaPhoneAlt/></a>(+91) 93188 18893</p>
             </li>
             <li>
-          <p><a href="#" className="cont"><FaEnvelopeOpenText/></a>www.abc.com</p>
+          <p><a href="www.abc.com" className="cont"><FaEnvelopeOpenText/></a>www.abc.com</p>
             </li>
             
           
