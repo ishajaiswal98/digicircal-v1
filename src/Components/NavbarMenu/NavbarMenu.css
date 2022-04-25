@@ -52,7 +52,7 @@
       border: none !important;
   }
   .navbarMenu .dropdown-menu  .dropdown-item {
-      background-color: rgb(23, 235, 23);
+      background-color: whitesmoke;
       color: rgb(54, 53, 53);
       font-weight: 500;
   }
